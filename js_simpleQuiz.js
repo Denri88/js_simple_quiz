@@ -1,7 +1,7 @@
 // Array of questions and answers below
 
 var questions = [
-["How many countries are there in the US? ", 50],
+["How many states are there in the US? ", 50],
 ["How many continents are there?" , 7],
 ["How many legs do insects have?", 6]
 ];
